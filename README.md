@@ -302,17 +302,6 @@ Below are the metrics in Kafka 0.8.2
     +--------------+-----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+```
 ```
 
-## Metrics-2.x vs Metrics-3.x
-The metrics project has two main versions: v2 and v3. Version 3 is not backward compatible.
- 
-Version [0.8.1.1](https://github.com/apache/kafka/blob/0.8.1.1/build.gradle#L217) and [0.8.2.1](https://github.com/apache/kafka/blob/0.8.2.1/build.gradle#L209), Kafka depends on [metrics-2.2.0](http://mvnrepository.com/artifact/com.yammer.metrics/metrics-core/2.2.0). 
-
-*Note:*<br/>
-In a future release, Kafka [might upgrade](https://issues.apache.org/jira/browse/KAFKA-960) to Metrics-3.x.
-Due to the incompatibilities between Metrics versions, a new Statsd reporter for metrics-3 will be required.<br/>
-All contributions welcome!
-
-
 ## How to build
 
 After cloning the repo, type
