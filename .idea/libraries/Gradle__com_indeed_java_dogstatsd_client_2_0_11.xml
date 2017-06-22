@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.indeed:java-dogstatsd-client:2.0.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.indeed/java-dogstatsd-client/2.0.11/c6640fead902c75a0115a22a26bde214f9fe7b37/java-dogstatsd-client-2.0.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.indeed/java-dogstatsd-client/2.0.11/34360358ddf45c081752d3c56891c8c9fee5ebc5/java-dogstatsd-client-2.0.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

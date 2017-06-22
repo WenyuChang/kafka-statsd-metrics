@@ -1,0 +1,10 @@
+P WARN [Test worker] (KafkaStatsdMetricsReporter.java:74) - Reporter is disabled
+_ INFO [Test worker] (KafkaStatsdMetricsReporter.java:71) - Reporter is enabled and starting...
+ê INFO [Test worker] (KafkaStatsdMetricsReporter.java:114) - Started Reporter with host=127.0.0.1, port=1234, polling_period_secs=11, prefix=foo
+†DEBUG [Test worker] (StatsDReporter.java:160) -   MBeanName["java.lang":type="Object",name="metric"], Group[java.lang], Name[metric], Scope[null], Type[Object]
+zDEBUG [Test worker] (StatsDReporter.java:202) - Gauge can only record long or double metric, it is class java.lang.String
+†DEBUG [Test worker] (StatsDReporter.java:160) -   MBeanName["java.lang":type="Object",name="metric"], Group[java.lang], Name[metric], Scope[null], Type[Object]
+†DEBUG [Test worker] (StatsDReporter.java:160) -   MBeanName["java.lang":type="Object",name="metric"], Group[java.lang], Name[metric], Scope[null], Type[Object]
+†DEBUG [Test worker] (StatsDReporter.java:160) -   MBeanName["java.lang":type="Object",name="metric"], Group[java.lang], Name[metric], Scope[null], Type[Object]
+†DEBUG [Test worker] (StatsDReporter.java:160) -   MBeanName["java.lang":type="Object",name="metric"], Group[java.lang], Name[metric], Scope[null], Type[Object]
+†DEBUG [Test worker] (StatsDReporter.java:160) -   MBeanName["java.lang":type="Object",name="metric"], Group[java.lang], Name[metric], Scope[null], Type[Object]

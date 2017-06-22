@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.airbnb.metrics.DimensionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-22T05:47:04" hostname="WenyudeMacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="create_from_properties" classname="com.airbnb.metrics.DimensionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

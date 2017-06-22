@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.airbnb.kafka.KafkaStatsdMetricsReporterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-06-22T05:47:04" hostname="WenyudeMacBook-Pro.local" time="0.243">
+  <properties/>
+  <testcase name="init_should_not_start_reporter_when_disabled" classname="com.airbnb.kafka.KafkaStatsdMetricsReporterTest" time="0.156"/>
+  <testcase name="init_should_start_reporter_when_enabled" classname="com.airbnb.kafka.KafkaStatsdMetricsReporterTest" time="0.085"/>
+  <testcase name="mbean_name_should_match" classname="com.airbnb.kafka.KafkaStatsdMetricsReporterTest" time="0.001"/>
+  <system-out><![CDATA[ WARN [Test worker] (KafkaStatsdMetricsReporter.java:74) - Reporter is disabled
+ INFO [Test worker] (KafkaStatsdMetricsReporter.java:71) - Reporter is enabled and starting...
+ INFO [Test worker] (KafkaStatsdMetricsReporter.java:114) - Started Reporter with host=127.0.0.1, port=1234, polling_period_secs=11, prefix=foo
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
